@@ -38,6 +38,7 @@ Our team designed and implemented a **Smart Access Control System** that earned 
 1. **Hardware Prototype:** Complete wiring and setup.
 2. **The Certificate:** Official "Best Group Project" recognition.
 3. **System UI:** Terminal logs and real-time feedback.
+4. https://drive.google.com/file/d/1Uu6bNrHXZFaUlT6qTNOAm9W5WjFQFi2W/view?usp=drive_link
 
 ---
 ## 👥 Team & Roles
