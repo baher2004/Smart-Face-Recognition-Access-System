@@ -29,7 +29,7 @@ Our team designed and implemented a **Smart Access Control System** that earned 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** `face_recognition`, `OpenCV`, `NumPy`, `GPIOZero`.
-- **Hardware:** Raspberry Pi 5 (8GB), IMX500 Camera Module, LEDs, Tactile Buttons.
+- **Hardware:** Raspberry Pi 5 (8GB), Raspberry Pi AI Camera Module, Breadboard, LEDs, Tactile Buttons.
 
 ---
 
