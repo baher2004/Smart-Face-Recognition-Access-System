@@ -40,6 +40,14 @@ Our team designed and implemented a **Smart Access Control System** that earned 
 3. **System UI:** Terminal logs and real-time feedback.
 
 ---
+## 👥 Team & Roles
+This project was a collaborative effort by our team during the **STEAM Academy Programme**:
 
+* **Software Development:** Baher Ghonaim & Hamza Elshikh (Developed the core AI logic and security state machine).
+* **Hardware Engineering:** Seif Mohamed (Managed hardware integration and component wiring).
+* **Project Supporters:** [Zeyad] & [Mostafa] (Assisted in documentation and testing).
+
+---
+#
 ## 👥 Lead Developer
 **Baher Mohamed Selim Ibrahim Ahmed Ghoneim**
