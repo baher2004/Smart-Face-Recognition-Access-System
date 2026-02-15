@@ -38,14 +38,13 @@ Our team designed and implemented a **Smart Access Control System** that earned 
 1. **Hardware Prototype:** Complete wiring and setup.
 2. **The Certificate:** Official "Best Group Project" recognition.
 3. **System UI:** Terminal logs and real-time feedback.
-4. the links:
- 
- https://drive.google.com/file/d/1vKFURwvmTGz2Hs55pzLZMqldOcuJWMbO/view?usp=sharing
- https://drive.google.com/file/d/1Ng_8ohiJkU_Vv1Ao7oSCOXvruxrUmAys/view?usp=sharing
- https://drive.google.com/file/d/1I5EkEN4GbEo4wrFdmpIyfwzq7E-YQSiM/view?usp=sharing
- https://drive.google.com/file/d/1Uu6bNrHXZFaUlT6qTNOAm9W5WjFQFi2W/view?usp=sharing
- https://drive.google.com/file/d/122F14CetL5UU2k_ZUHiX91Fg_CVVzAKa/view?usp=sharing
- https://drive.google.com/file/d/1k8c9_RH68NworoP8t0h_JSW98xl5S84Y/view?usp=sharing
+4. the links:  
+  https://drive.google.com/file/d/1vKFURwvmTGz2Hs55pzLZMqldOcuJWMbO/view?usp=sharing
+  https://drive.google.com/file/d/1Ng_8ohiJkU_Vv1Ao7oSCOXvruxrUmAys/view?usp=sharing
+  https://drive.google.com/file/d/1I5EkEN4GbEo4wrFdmpIyfwzq7E-YQSiM/view?usp=sharing
+  https://drive.google.com/file/d/1Uu6bNrHXZFaUlT6qTNOAm9W5WjFQFi2W/view?usp=sharing
+  https://drive.google.com/file/d/122F14CetL5UU2k_ZUHiX91Fg_CVVzAKa/view?usp=sharing
+  https://drive.google.com/file/d/1k8c9_RH68NworoP8t0h_JSW98xl5S84Y/view?usp=sharing
    
    
 
