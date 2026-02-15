@@ -39,6 +39,7 @@ Our team designed and implemented a **Smart Access Control System** that earned 
 2. **The Certificate:** Official "Best Group Project" recognition.
 3. **System UI:** Terminal logs and real-time feedback.
 4. the links:
+ 
  https://drive.google.com/file/d/1vKFURwvmTGz2Hs55pzLZMqldOcuJWMbO/view?usp=sharing
  https://drive.google.com/file/d/1Ng_8ohiJkU_Vv1Ao7oSCOXvruxrUmAys/view?usp=sharing
  https://drive.google.com/file/d/1I5EkEN4GbEo4wrFdmpIyfwzq7E-YQSiM/view?usp=sharing
